@@ -1,4 +1,5 @@
-<h3 align="center">Computer Science and Engineering Student at UC IRvine</h3>
+
+<h3 align="center">Aryan Das, a Computer Science and Engineering Student at UC Irvine</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

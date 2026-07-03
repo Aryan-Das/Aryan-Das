@@ -1,5 +1,5 @@
-# Aryan Das
-## Computer Science and Engineering Student at UC Irvine 
+# Aryan Das 
+#### Computer Science and Engineering Student at UC Irvine 
 
 ### Languages
 
